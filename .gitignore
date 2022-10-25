@@ -6,6 +6,7 @@ output/
 
 *.log
 
+*.csv
 
 # Additional 
 .DS_Store
