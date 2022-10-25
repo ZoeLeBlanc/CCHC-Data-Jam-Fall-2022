@@ -1,6 +1,10 @@
 # Large Data Files
 
 private_materials/
+datasets/
+output/
+
+*.log
 
 
 # Additional 
